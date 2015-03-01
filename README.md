@@ -1,4 +1,4 @@
-# Kitkat Pod
+# Lollipop Pod
 
 ![lollipop](pods-lollipop.png)
 
