@@ -1,6 +1,6 @@
 # Week 0 Pod meeting
 
-* Date:
+* Date: 3/1/2015
 * Attendants:
 * Team Leader:
 * Think Piece: Paola + Kevin's talks
