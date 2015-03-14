@@ -46,19 +46,19 @@
 **Student 5** Jae
 
 * This week's medium post: https://medium.com/@jaellysbales/here-be-dragons-60cd8e5313ef
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* Last week’s goal: to become more familiar with Git.
+* What went well (what goals did you meet?) after a big Git issue during office hours, John demostrated several commands to track the steps, recover commits, and ensure adherence to best practices. Making progress
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)Probably planning the adventure game; had infinite imagination and ambition, but it was difficult to translate them with my time and knowledge constraints, need to find balance, simplify and focus.
+* What is your goal for next week? to keep working on the game, to learn a new technique to deal with building rooms or storing inventory.
+* What do you need help with? (peers sign up to help if they can) arrays and their control. Yuliya is to help.
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
-1. Smth new you got from the talk: grit concept, IQ is not a decisive point
+1. What is grit? Grit is a combination of perserverance, determination, stamina and hard work
 2. Was it just the speaker's opinion about the importance of grit or is it a scientifically proven fact? There has been some research conducted to prove grit priority over other things
 
-* What are 2 things you took from this think piece? 
-1. hard work and detrmination to achive smth;
-2. high IQ is not the main key to success;
+* What are 2 things you took from this think piece?
+- hard work and determination to achive smth;
+- high IQ is not the main key to success;
 
 * How does this think piece relate to access code?
 We have not done coding before, but working hard and consistanlty we can or better saying will get to the top of programming. 
