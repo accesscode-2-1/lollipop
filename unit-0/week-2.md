@@ -56,9 +56,7 @@
 1. What is grit? Grit is a combination of perserverance, determination, stamina and hard work
 2. Was it just the speaker's opinion about the importance of grit or is it a scientifically proven fact? There has been some research conducted to prove grit priority over other things
 
-* What are 2 things you took from this think piece?
-- hard work and determination to achive smth;
-- high IQ is not the main key to success;
+* What are 2 things you took from this think piece? Hard work and determination to achive smth; High IQ not the main key to success;
 
 * How does this think piece relate to access code?
 We have not done coding before, but working hard and consistanlty we can or better saying will get to the top of programming. 
