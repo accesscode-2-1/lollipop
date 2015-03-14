@@ -73,4 +73,3 @@ Reinard does not feel confident about new topics introduced this week and needs 
 
 * Next Week’s think piece: https://www.youtube.com/watch?v=6kxSrPD__BA It may not be related directly to AC, but very inspirational.
 * Next Week’s team leader: Jae
-
