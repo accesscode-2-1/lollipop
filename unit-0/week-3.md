@@ -36,7 +36,7 @@
 
 **Kadeem**
 
-* This week's Medium post: 
+* This week's Medium post: https://medium.com/@Ksmaragh/struggle-for-thought-7db0006196cb
 * Last week’s goal: to handle methods, to translate the game vision into actual code
 * What went well (what goals did you meet?) Methods went well, classes went well, learning about objects, constructors.
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?) Verbosity Calculator - I feel my solution wasn't the most efficient. I need to refine it.
