@@ -106,19 +106,19 @@
 		
 2. #####What went well (what goals did you meet?)
 
-		[Start typing here]
+		Finished my first App, learnt a lot about Android
 		
 3. #####What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
 
-		[Start typing here]
+		I wish I could improve the GUI for the App
 		
 4. #####What is your goal for next week?: 
 
-		[Start typing here]	
+		Improve Horoscope and start working on he calculator	
 			
 5. #####What do you need help with? (peers sign up to help if they can):
 
-		[Start typing here]
+		I would love to get more knowledgeable with fragments
 		
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
