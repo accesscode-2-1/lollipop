@@ -7,7 +7,6 @@
 * Charlyn Buchanan
 * Jaellys Bales
 * Kadeem Maragh
-* Reinard Cox
 * Yuliya Kaleda
 
 # Weekly Pod Meeting Template
